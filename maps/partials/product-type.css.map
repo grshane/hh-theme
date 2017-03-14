@@ -1,0 +1,1 @@
+{"version":3,"file":"partials/product-type.css","sources":["../stdin"],"sourcesContent":[".product-type__widget {\n  width: 33%;\n}\n\n.product-type__title{}\n\n.product-type__description {}\n\n.product-type__image {\n\n}"],"mappings":"AAAA,AAAA,qBAAqB,AAAC,CACpB,KAAK,CAAE,GAAI,CACZ","names":[],"sourceRoot":"/source/"}

@@ -1,0 +1,22 @@
+{
+  "name": "holistic-horse",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Gregg Shanefelt <grshane@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bourbon": "^4.3.2",
+    "neat": "^2.0.0"
+  }
+}
